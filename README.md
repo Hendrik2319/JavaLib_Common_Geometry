@@ -1,6 +1,6 @@
 # JavaLib_Common_Geometry
 The `JavaLib_Common_*` libraries contains all code snippets, classes and concepts, I want to reuse over more than one project.  
-In `JavaLib_Common_Geometry` contains some classes that describe 2D or 3D geometry. `JavaLib_Common_VRML` depends on this library.  
+`JavaLib_Common_Geometry` contains some classes that describe 2D or 3D geometry. `JavaLib_Common_VRML` depends on this library.  
 
 `JavaLib_Common_Geometry` is an extract of `JavaLib_Common`.  
 At first and for a long time I've used SVN for versioning and all these extracts were made via `SVN externals` (separate files or whole folders).
